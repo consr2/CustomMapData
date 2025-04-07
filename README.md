@@ -1,2 +1,2 @@
 # CustomMapData
-게임 저장코드
+게임 코드
