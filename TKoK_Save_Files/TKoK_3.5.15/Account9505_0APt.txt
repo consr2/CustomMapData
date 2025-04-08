@@ -1,0 +1,20 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "
+
+Name: consr
+
+APT: 0
+
+DEDI PTS: 0
+
+Code:
+-la 7IcWbAKv6FACIxD0Y37WDEyuK5??kYfLIOPJ7!J4p3PnCCGdrLtIbABMuqx0465ZrU5ASYFbyS!glx5rGiN5M9Rlg7Jp9GFAAfxAlOj9MogDI2IsTZQ3xmfskEP
+
+
+" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

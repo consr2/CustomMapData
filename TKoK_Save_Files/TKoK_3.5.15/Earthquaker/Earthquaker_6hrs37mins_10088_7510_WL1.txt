@@ -1,0 +1,16 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( " Name: consr" )
+	call Preload( " Hero: Earthquaker" )
+	call Preload( " Level: 26" )
+	call Preload( " EXP: 10088" )
+	call Preload( " Gold: 7510" )
+	call Preload( " Star Glass: 0" )
+	call Preload( "---------------------------------------" )
+	call Preload( " Code: -l k0bd6pTruxEEE3m0oY?iGswf6mlW6cxjQVjBFRyOfWzTtcRR!4uRipoGaYVzMyZ3RYCI64afs2qI5jUYu0Tic9TqT?tDkQFttUr?Vz6Ftc9rN1zGYTH0SeLuCP1P" )
+	call Preload( "       -l2 MLVSqYv!XExxxONLIpcJyZ4AqNBeq?ERtbRlgjG3Ae5vQ?GjrwSZcYIy7pb5kGsOjpnoqw7AZK6ozR9pXLvJ?Uv6vcQhMtgQQ9!cb5qgQ?U!mP5ypv8LdrLBE7X" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

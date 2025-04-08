@@ -1,0 +1,11 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( " 닉네임 consr" )
+	call Preload( " 클리어 회수 = 3" )
+	call Preload( " 베스트 점수 = 13816점" )
+	call Preload( "-load ZWpDb8qp5dc" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
