@@ -1,0 +1,16 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( " Name: consr" )
+	call Preload( " Hero: Druid" )
+	call Preload( " Level: 38" )
+	call Preload( " EXP: 20769" )
+	call Preload( " Gold: 23471" )
+	call Preload( " Star Glass: 0" )
+	call Preload( "---------------------------------------" )
+	call Preload( " Code: -l QR1hfs4RFQvAbgGw6C!qCGY0En6iv0J7d1K6MYoJpWd?OrvTjTkhj5oxuBAPZ5!869wW0EZ!E1zXKtdMzHeftl9Vx5ELDV05d17b6lZHHfETzfOWA4cbCNv9drCv" )
+	call Preload( "       -l2 tjPDAZwjgtTfVFy4qnr6nypLxCqJTLiaSP2qkpIiYeSc3!uvRv53kzIEXlf1szrHqU4eLxsrxP5u2QSk58WAQBUbEzx0hbLzSPaVqBs88Axv5A3efw?VnBjhDfO" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
