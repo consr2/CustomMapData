@@ -1,0 +1,16 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( " Name: consr" )
+	call Preload( " Hero: Hydromancer" )
+	call Preload( " Level: 3" )
+	call Preload( " EXP: 154" )
+	call Preload( " Gold: 2151" )
+	call Preload( " Star Glass: 0" )
+	call Preload( "---------------------------------------" )
+	call Preload( " Code: -l wUa537RValyOdIYWgTyN8UFGFl6PwDDj9WC19TYTGwUMcD8V354U6KXZiiwKMB!4BRjwE8M2fHGU5J1Wo13AX5vDpTcQk?eoxHbC55MS0MuRNpIMYS!Bbb9jGtXv" )
+	call Preload( "       -l2 497zOajb7BG3SopeFvGmH9gygBq14hhRUenPUvpvy49k?hHbOzL5r2usJJ42klrwljR4xHkKA8y9ziPeIPOfuzThYv?tMcWIE8VnzzkdLkXjmYokpdrlVnNkcdy" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
