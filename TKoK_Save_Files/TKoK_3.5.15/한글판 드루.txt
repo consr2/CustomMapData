@@ -6,10 +6,10 @@ Name: consr
 
 APT: 7225
 
-DEDI PTS: 5650
+DEDI PTS: 7250
 
 Code:
--la BeH!BaJnlUAO0pn88Nq578qCdRf7psX1Y?IS2PlM6fgAoIsbAReTWHVhYCtFph3yaKs1fVrf2NepTJ5M3eRfXC7mRXV6qRjCracF8QCAO6gxjkp1PVUmDC3?CyB
+-la GsDdxjFoaLOzMZD5mpLyh6gHUgyq8cdjKkPJFpQhp3PnCCGdrLtIbABMuqx08TqxfY!fSYjbgeK1AV1rxsD0wXjxvQCp9GFAAfxAlqRXztPWl22jSVz3vn0skEP
 
 
 " )
