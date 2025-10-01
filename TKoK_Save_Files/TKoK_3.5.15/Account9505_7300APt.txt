@@ -6,10 +6,10 @@ Name: consr
 
 APT: 7300
 
-DEDI PTS: 14050
+DEDI PTS: 16050
 
 Code:
--la Ic7KzPl5zpTbye61eZ36DlXPTE?GPNA8E2ongaJSA8Xvob?mPBqfezAW1Ki6pFVLcFxIY6r4Bqn6QoJqozkuZu??0IpFq?!OS6r3MiOLadXRjLLjAMeA!j7m31L
+-la ytimgXQ9!cSXueBgGY!V4VWKGo!0IN4LnjuEzwFYJOBYfbTRuOrMp!SOcxaqKFs8Lpty!kP8QmfqJod2gba19j5amvq1L?Sw40qOvxUQwrBu?LfG!pb!Yx8unnV
 
 
 " )
