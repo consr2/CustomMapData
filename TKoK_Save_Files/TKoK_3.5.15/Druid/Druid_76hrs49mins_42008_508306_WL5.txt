@@ -7,8 +7,12 @@ function PreloadFiles takes nothing returns nothing
 	call Preload( " Gold: 508306" )
 	call Preload( " Star Glass: 117" )
 	call Preload( "---------------------------------------" )
-	call Preload( " Code: -l WBiBqSfTY!fF6BqrwpevdlPEZaTc7SjdY?rCIxMLA2HbNndKSuG9GBiVTIic872sXh29HL2t0SW78VOgRosIRBOY?m!VCuGoCgzqyBjAP1XhWoyMzk9QuLJ79Ckg" )
-	call Preload( "       -l2 opvhfq3MRP3IxPS1PMckfB1xs7v?adRSpfbnoEk0fK9RmDyadERe5lJbvoJ?HaKZuDKU80KQLdeaHb3FjIZojl3pcNrbnXyInF56GlRf1PuDeIGk5MUtXwMRhAp" )
+	call Preload( " Code: 
+-l WBiBqSfTY!fF6BqrwpevdlPEZaTc7SjdY?rCIxMLA2HbNndKSuG9GBiVTIic872sXh29HL2t0SW78VOgRosIRBOY?m!VCuGoCgzqyBjAP1XhWoyMzk9QuLJ79Ckg
+
+-l2 opvhfq3MRP3IxPS1PMckfB1xs7v?adRSpfbnoEk0fK9RmDyadERe5lJbvoJ?HaKZuDKU80KQLdeaHb3FjIZojl3pcNrbnXyInF56GlRf1PuDeIGk5MUtXwMRhAp
+
+" )
 	call PreloadEnd( 0.0 )
 
 endfunction
