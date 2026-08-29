@@ -1,0 +1,17 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( " 이름: consr#3749" )
+	call Preload( " Hero: 화염술사" )
+	call Preload( " 레벨: 1" )
+	call Preload( " EXP: 0" )
+	call Preload( " 골드: 45" )
+	call Preload( " 별유리: 0" )
+	call Preload( "---------------------------------------" )
+	call Preload( " 코드: -l ?3GmwTdALEppw2l05ovIWoYHDbyVLEmrREkH4UoexbDrV4huLDVJhDrjBplg0qdozhzej1agVGoNnMJP!hqFZBkGedEwUUrlTN5PmpEkYa7s1sQjXbnqnV9rCZ5a" )
+	call Preload( "       -l2 cOyN4vSf0xYYvNxIhLuoeIp8hVGb0xN!jxM8w9IWEVh!bwDX0hbpeh!RlYBFL6SI5D5WRP7FbyImCki1rD6gslMyWSx499!Bvmz1NYxMp7aZPZtRuVC6CLqtC1r" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

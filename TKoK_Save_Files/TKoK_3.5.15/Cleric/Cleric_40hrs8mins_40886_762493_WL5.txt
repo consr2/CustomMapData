@@ -1,0 +1,17 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( " 이름: consr" )
+	call Preload( " Hero: 성직자" )
+	call Preload( " 레벨: 53" )
+	call Preload( " EXP: 40886" )
+	call Preload( " 골드: 762493" )
+	call Preload( " 별유리: 82" )
+	call Preload( "---------------------------------------" )
+	call Preload( " 코드: -l vwFzoX57MNeWRSz2geDAJgyoZmtEfMV89vjqHiwx1wkvxWJf0GXoqD1Srjz3ry6QVbQLegZCFKSYyNgfxLMjaG93uF0GsnXTocY!vGZjZTQPjz77DdM3rRvSn6Lj" )
+	call Preload( "       -l2 T4g5ZehB!28uajXKFWhfiFGIsNQxAkbHUGn68J4EP4STEdYAL23OBhPd!R5O!GqtbVt0WFsng2dpGmFAE0kR7yUOXgLyZCuvI?prTysRsvt1R5aahSkO!zB9jWA" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
