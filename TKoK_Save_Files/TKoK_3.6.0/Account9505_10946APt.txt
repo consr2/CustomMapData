@@ -7,10 +7,10 @@ Name: consr
 
 APT: 10946
 
-DEDI PTS: 7780
+DEDI PTS: 7781
 
 Code:
--la s!Gm7O5dgzOW?D5XRFdmxre5aZk5Ckgx9dGikibvIvdBIHE3XqXMTyNymTEld2w85N7wotlQdGx3e02Yk1108v3rcO24elMKFoYOu6Z8x1vKt12vISe!HwdRfOB
+-la AKtQ2WX6tSB1s2SVq3lQyEPtBemDHJbbxOtZn!K!cVw3Q8f1lj?tYwijJyQmtDqazeTJenzAE?eBkROCjIDB5cCTImjCkznMZW26c27fPMnkdYOtSnrCXyqEGim
 
 
 " )
