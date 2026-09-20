@@ -1,0 +1,17 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( " Name: consr#3749" )
+	call Preload( " Hero: Venomancer" )
+	call Preload( " Level: 8" )
+	call Preload( " EXP: 1110" )
+	call Preload( " Gold: 530" )
+	call Preload( " Star Glass: 0" )
+	call Preload( "---------------------------------------" )
+	call Preload( " Code: -l SB9a0Q3grPQ!T54PAIHXG88Ap8aUj4Ip5bfCuZBEd0X2c33Un5dOtEmIGGRhrPVSGzD7ybvAUpttXGs0Tz!VPG9CxxFAtA52!jhZaOS1Z57Kli!K6Jhu9IkUSRDS" )
+	call Preload( "       -l2 dlU7LtOF!1trvzw1fo8uyHHfYH79RwoYzVAnXslxSLuK?O69CzE1HxNoyyjD!1bdy5haGVTf9YQQuyZLv5rb1yUnEEgfQfzKrRDs73dPsza2BJr2qiDXUAbJJCP" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
