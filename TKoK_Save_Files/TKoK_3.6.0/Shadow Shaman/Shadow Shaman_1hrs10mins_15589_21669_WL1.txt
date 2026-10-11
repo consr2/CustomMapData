@@ -1,0 +1,17 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( " Name: consr" )
+	call Preload( " Hero: Shadow Shaman" )
+	call Preload( " Level: 32" )
+	call Preload( " EXP: 15589" )
+	call Preload( " Gold: 21669" )
+	call Preload( " Star Glass: 0" )
+	call Preload( "---------------------------------------" )
+	call Preload( " Code: -l 8DxC!pmLBfCnQrAfWaXopqTPXxX5vXebxzynQYhXL2ysyIKpcQoC7EVVQfN8GChcrcK8!5Tuwg3o2KrpahrGo8aGMPA5b1Ds9bTg58Tp8DxjoQ8A?uepBdkfQ?oK" )
+	call Preload( "       -l2 HhEnrYN0lAnCt!fAe7uIY6v1uEuzTuWVE5GCtpDu0KGZGoaY?t35pxbbtAmHynD?!?2HrzvX4FOIK2!Y7D!yIH7yk1fzVPhZUVvFzHvYHhERItHfcXWYl8?7w14" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

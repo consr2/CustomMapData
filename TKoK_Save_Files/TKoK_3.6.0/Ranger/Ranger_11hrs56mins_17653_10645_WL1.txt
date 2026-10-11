@@ -1,0 +1,17 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( " Name: consr" )
+	call Preload( " Hero: Ranger" )
+	call Preload( " Level: 35" )
+	call Preload( " EXP: 17653" )
+	call Preload( " Gold: 10645" )
+	call Preload( " Star Glass: 0" )
+	call Preload( "---------------------------------------" )
+	call Preload( " Code: -l qBQ!htfL2t3gfcm1jOp!0hfxO8TWX2AVgl0acj0YX7E7Hv04MdXGO7jV49?w44iZugZcDHabTOkEEkssRmRXFXTKsApVYWbpCKEH!Xa4JK?ARnpmbGBA1KLz2vke" )
+	call Preload( "       -l2 6ltr!o!JwBUtuXNPR3YrLDAE3HveuKfbFBL7?RLpuaxa8T5wkS6KNaRbwUcPVIBxXF??h87Vv3MxxMZZjNjuguv2ZfYbpeVYn2x8ru7wi2cfjCYNVylfPT!y40l" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
