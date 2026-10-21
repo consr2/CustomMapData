@@ -1,0 +1,17 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( " Name: consr" )
+	call Preload( " Hero: Medicaster" )
+	call Preload( " Level: 27" )
+	call Preload( " EXP: 10921" )
+	call Preload( " Gold: 38483" )
+	call Preload( " Star Glass: 0" )
+	call Preload( "---------------------------------------" )
+	call Preload( " Code: -l 1bapleJmexuDgqtGwhzqK290?SY!?YDifTt5LzJyTx88sY6ro7tG?Pk7vvmEVV!3IOhkipQZwJBwbF1Y3iIOdJf7ME9!25et0DXViJQ08SGVMgIGEVwRHD?YQ9cT" )
+	call Preload( "       -l2 PV7YBWiNWEXhF6Qy4D562KULcdprcphJAvQz05iGvEHHZp3!IqDs2wETTTNxbbrOo3DMJYts4il4VgPpOJo3SiAakxUrKzWQLhubJitLHdybkFoyxb4j8qoTjHZ" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

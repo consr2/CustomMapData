@@ -1,0 +1,17 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( " Name: consr" )
+	call Preload( " Hero: Aeromancer" )
+	call Preload( " Level: 35" )
+	call Preload( " EXP: 17857" )
+	call Preload( " Gold: 5221" )
+	call Preload( " Star Glass: 0" )
+	call Preload( "---------------------------------------" )
+	call Preload( " Code: -l x2urEjdYPcUhdCxhFj7guajlsqHy9cUM0KFExtmwByrUBc3mawooBjzJC!Wx6zjpSIfYHMj5iBCMhsacckvelrOXOR6WNPkZfl!o1rjOblMmx0QjbqbkiOJiXnvc" )
+	call Preload( "       -l2 EKX!sX9JHolKslADgRaFX7RBZ68GU?9kL2gxEQN4lG!9l?6N74qLqR5inreEq5RYdoAp8kRzJlnkDZ7??MTWB!3u3jqem1MsABrIP!R3VBkNELtRV6VMJTbolZY" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

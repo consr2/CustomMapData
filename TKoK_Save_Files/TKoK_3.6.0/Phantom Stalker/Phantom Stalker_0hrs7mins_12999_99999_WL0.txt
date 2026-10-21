@@ -1,0 +1,17 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( " Name: consr" )
+	call Preload( " Hero: Phantom Stalker" )
+	call Preload( " Level: 30" )
+	call Preload( " EXP: 12999" )
+	call Preload( " Gold: 99999" )
+	call Preload( " Star Glass: 0" )
+	call Preload( "---------------------------------------" )
+	call Preload( " Code: -l H7h5YRZYJDV2HF5qChbdnOeJI8tezArKNuS9f39KTQ8tuApfYIpAoCUbJQscrHng?w2fYVn0mzS98qenEMsWJOPRgn0dna1SKfzNYOnD24q0WIN63z9S2rY6JRea" )
+	call Preload( "       -l2 8aDzpjspihbK8gz6nDVSC3WioHQW5f!2mXdUAOU2vtHQXfYApiUpjBDmGK51nXyoLWg4DpWa8CPjH6AlaFZei31jFCLKC6dd5d5jp2ohz16LeomqO5UdKiaoKWR" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

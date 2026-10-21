@@ -1,0 +1,17 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( " Name: consr" )
+	call Preload( " Hero: Pyromancer" )
+	call Preload( " Level: 35" )
+	call Preload( " EXP: 17625" )
+	call Preload( " Gold: 56166" )
+	call Preload( " Star Glass: 0" )
+	call Preload( "---------------------------------------" )
+	call Preload( " Code: -l v2CY3a0uAmdnkXZkPeu4OGQa6SX4lAbekJHbEoA1pDXEFApRmvsK4qxnJmhPyHGvpL!29GGLmpzoHqEI7b8rygwoglE5paA1jhfMigGz2R7jqI4DrPSLOS6rJ4kh" )
+	call Preload( "       -l2 TKnpO7LXfNSAMusM1WXw3yt7qduwBfVWMi8VxIfPYhuxgfijNFvBjS7lGb9?YXCkj?NKjlc78eQy86cFxiH!GF4IFBx!Y6wPTgAhJTH5zGaR6owh!1d03HSbG0y" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

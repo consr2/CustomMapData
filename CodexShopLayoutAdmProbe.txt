@@ -1,0 +1,15 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "SHOP|index=0|id=1848652362 ESC: next shop" )
+	call Preload( "SHOP|index=1|id=1848653129 ESC: next shop" )
+	call Preload( "SALE|shop=1848653129|slot=-1|method=0|item=1227900983|name=Health Potion: |cff8080ffGreater|r" )
+	call Preload( "SHOP|index=2|id=1848651851 ESC: next shop" )
+	call Preload( "SHOP|index=3|id=1848652113 ESC: next shop" )
+	call Preload( "SHOP|index=4|id=1848652371 ESC: next shop" )
+	call Preload( "SALE|shop=1848652371|slot=-1|method=0|item=1227900980|name=Elixir of Spirit" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
