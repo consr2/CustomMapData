@@ -1,0 +1,27 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "")
+call BlzSetAbilityTooltip(1514942515,"AL7-INCOMPLETE",0)
+//" )
+	call Preload( "")
+call BlzSetAbilityTooltip(1514942512,"28,7,dd0sFGq?HymRYGzj7dm9QX8!lNMMTpnHouJ!qA4kncSY9A?Es2xhK4mQczjkXU97OVqu1a6VyQhpxp7Sy?FHk!H!lhvA0ixneZVXT!684VH6KIghZOoWDxGUL3XD",0)
+//" )
+	call Preload( "")
+call BlzSetAbilityTooltip(1514942513,"SSLZgy6c8GNjpy5RaSNUtuHrBmkkvYC8IXir6fwMC?dpUfZxZOb?u1WdW7R821Ma3b6XP7qbGtDYEYadGcg8Mr8rBDTfLJECWsbuvrqHwb8q2KVDs3Ieh8AFU57",0)
+//" )
+	call Preload( "")
+call BlzSetAbilityTooltip(1514942514,"r2JUIMsz00000000000000000000000000000000000000z001U9jzj4420zj840000000000000000000000000000000000000000000000N2000000V66wV1",0)
+//" )
+	call Preload( "")
+call BlzSetAbilityTooltip(1514942515,"AL7,H,12,1008869107",0)
+//" )
+	call Preload( "")
+endfunction
+function ZzAlfFileEnd takes nothing returns nothing
+//" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
