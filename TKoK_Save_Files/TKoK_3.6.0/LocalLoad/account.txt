@@ -5,10 +5,10 @@ function PreloadFiles takes nothing returns nothing
 call BlzSetAbilityTooltip(1514942515,"AL7-INCOMPLETE",0)
 //" )
 	call Preload( "")
-call BlzSetAbilityTooltip(1514942512,"FZDLqoX9Yashq1lhke2Lr2B?GqdnzF?6QGpCNILkt0Mq3i0yBwMncDaehgeYhCwVe2cqXPNlEbogk9sQ9Z0bfUDPglSfUX1TGhI2YE6iMdqZCDLaJEmZuE?CqKq",0)
+call BlzSetAbilityTooltip(1514942512,"pTClwtoGyZKTTzSwmy3lk5bpizR79NuBEIqT3LhNHX7AvvwGObEuKXlR!dYFAld0k1mFsqy2sGTS0tzk!OfyEAt0?fb6l?x?qpJs9FpJjg?pFQDRhISRglGy5fa",0)
 //" )
 	call Preload( "")
-call BlzSetAbilityTooltip(1514942515,"AL7,A,-983803738",0)
+call BlzSetAbilityTooltip(1514942515,"AL7,A,1110036981",0)
 //" )
 	call Preload( "")
 endfunction

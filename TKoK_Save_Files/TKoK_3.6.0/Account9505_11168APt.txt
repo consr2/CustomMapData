@@ -7,10 +7,10 @@ Name: consr
 
 APT: 11168
 
-DEDI PTS: 154301
+DEDI PTS: 90076
 
 Code:
--la FZDLqoX9Yashq1lhke2Lr2B?GqdnzF?6QGpCNILkt0Mq3i0yBwMncDaehgeYhCwVe2cqXPNlEbogk9sQ9Z0bfUDPglSfUX1TGhI2YE6iMdqZCDLaJEmZuE?CqKq
+-la pTClwtoGyZKTTzSwmy3lk5bpizR79NuBEIqT3LhNHX7AvvwGObEuKXlR!dYFAld0k1mFsqy2sGTS0tzk!OfyEAt0?fb6l?x?qpJs9FpJjg?pFQDRhISRglGy5fa
 
 
 " )
